@@ -1,0 +1,13 @@
+# network info and nick required
+network: irc.hardchats.com
+channel: unicornmob
+port: 6667
+nick: Reach
+# time in seconds to refresh info
+interval: 125
+gamertags:
+    - vAesoPv
+    - jenkmasler
+    - schmootzy
+    - limedcoconut
+    - Turbojugend USA
